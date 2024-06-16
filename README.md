@@ -1,2 +1,2 @@
-## Batlha Naval
+## Batalha Naval
 Batalha naval simples feito com SWING
