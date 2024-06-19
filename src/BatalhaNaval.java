@@ -17,9 +17,9 @@ final public class BatalhaNaval {
 
     private static final char SHIP_LETTER = 'N';
     private static final char WAVE_LETTER = '~';
-    private static final String X_EMOJI = "\uD83E\uDD2F";
-    private static final String SHIPS_EMOJI = "\uD83D\uDEA2";
-    private static final String WAVE_EMOJI = "\uD83C\uDF0A";
+    private static final String X_EMOJI = "<html>&#128293;</html>";
+    private static final String SHIPS_EMOJI = "<html>&#128674</html>";
+    private static final String WAVE_EMOJI = "<html>&#127754</html>";
 
     private final JFrame frame = new JFrame("Batalha Naval");
     private final JPanel boardPanel = new JPanel(new GridLayout(ROW, COLS));
